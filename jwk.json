@@ -1,15 +1,11 @@
-{"jwk":
-  [
+{
+  "keys": [
     {
-     "alg":"RSA",
-     "mod": "0vx7agoebGcQSuuPiLJXZptN9nndrQmbXEps2aiAFbWhM78LhWx
-4cbbfAAtVT86zwu1RK7aPFFxuhDR1L6tSoc_BJECPebWKRXjBZCiFV4n3oknjhMs
-tn64tZ_2W-5JsGY4Hc5n9yBXArwl93lqt7_RN5w6Cf0h4QyQ5v-65YGjQR0_FDW2
-QvzqY368QQMicAtaSqzs8KJZgnYb9c7d0zgdAZHzu6qMQvRL5hajrn1n91CbOpbI
-SD08qNLyrdkt-bFTWhAI4vMQFh6WeZu0fM4lFd2NcRwr3XPksINHaQ-G_xBniIqb
-w0Ls1jF44-csFCur-kEgU8awapJzKnqDKgw",
-     "exp":"AQAB",
-     "Kid":"2011-04-29"
+      "kty": "RSA",
+      "alg": "RS256",
+      "kid": "hihi",
+      "n": "10R1G1rTXJn05FF9ViFoZ-KGi9VLhdMd58X0ZrR_6pa-reufzNfsWYOMoauTXgZIOo_S1bNQHfc9FoKeHYp4J12bE6maDJhfGiwFRA0CBrB35e12jegAS_ovGEu9ZNm9Ht8vwvrWEqDW-sQMieBjFiSl5Ya-hPyJCV9j9XGzk25rHW3v4TL5SC11oZRLtI88WOjjvEnF-GRVUCaxpVIUSogO16rSMus08T5q1VkJ8c21CRDLXD4f68XUEtsFvSdy_6pW-EJfbEJacUL2fXfPG4Hc-2bHry6TKbto9yfSmEy4Q-Kxl107FV1fE83JiUaGCg8yyl3H59-i3GzlGVzXUQ",
+      "e": "AQAB"
     }
   ]
 }
